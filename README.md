@@ -1,5 +1,5 @@
 
-# Datavizualisation des tremblements de terre dans le monde de 1965 à 2016
+# Datavisualization des tremblements de terre dans le monde de 1965 à 2016
 
 Ce dépot a été créé dans le cadre d'un projet personnel où j'ai réalisé une Datavizualisation des tremblements de terre dans le monde de 1965 à 2016.
 
