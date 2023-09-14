@@ -3,9 +3,8 @@
 
 Ce dépot a été créé dans le cadre d'un projet personnel où j'ai réalisé une Datavizualisation des tremblements de terre dans le monde de 1965 à 2016.
 
-[Lien](https://tremblements-terre.streamlit.app/) vers l'application
 
-
+<a href="https://tremblements-terre.streamlit.app/" target="_blank">Lien</a> vers l'application
 
 
 ## Screenshots
